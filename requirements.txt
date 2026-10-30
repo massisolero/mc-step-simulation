@@ -1,0 +1,4 @@
+numpy
+matplotlib
+jupyter
+f2py_jit
